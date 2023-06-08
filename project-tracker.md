@@ -1,0 +1,13 @@
+- 5/25 
+  - Abhi - Found a tutorial to work on
+- 5/26
+  - Abhi - Cloned the repository and initiated the project
+  - Ankur - Looked at the react website for some information on how to make this work
+- 5/27
+  - Ankur - Finished the custom localstorage hook
+  - Abhi - Created the login page and functionality
+- 5/28
+  - Abhi - Created all the custom provider components
+  - Ankur - Integrated some of the files together
+- 5/29
+  - Abhi - Fixing an error, was unsuccessful and had to basically revamp the project again to get it to work
